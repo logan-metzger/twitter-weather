@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Twitter Weather</string>
+    <string name="get_weather">Get Weather</string>
+    <string name="cloud_image">Cloud Image</string>
+</resources>
